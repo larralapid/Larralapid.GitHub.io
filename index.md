@@ -4,6 +4,7 @@ title: Larra Lapid's CV
 ---
 # Larra Lapid  
 ServiceNow Expert | Founder of Somastack
+ServiceNow expert with 5 years of experience. Experienced in leading technical delivery with alignment to IT processes and business needs while maintaining adherence to ServiceNow best practices.  
 
 <div id="webaddress">
 <a href="mailto:larra@somastack.com">larra@somastack.com</a>
@@ -17,7 +18,7 @@ ServiceNow Expert | Founder of Somastack
 
 Actively seeking subcontracting opportunities in ServiceNow via Somastack Consultancy.
 
-### Specialized in (ServiceNow)
+## Specialized in (ServiceNow)
 
 - ITSM
 - Performance Analytics & Reporting 
@@ -27,7 +28,7 @@ Actively seeking subcontracting opportunities in ServiceNow via Somastack Consul
 - Next Experience UI 
 
 
-### Professional Interests
+## Professional Interests
 
 - Automated Solutions in ITSM
 - AI Integration in Service Management
