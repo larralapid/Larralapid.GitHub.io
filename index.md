@@ -12,6 +12,7 @@ ServiceNow expert with 5 years of experience. Experienced in leading technical d
 <a href="mailto:larra@somastack.com">larra@somastack.com</a>
 | <a href="https://www.linkedin.com/in/larralapid/">My LinkedIn Page</a>
 | <a href="http://somastack.com">Somastack.com</a>
+| <a href="https://larralapid.github.io">This resumé</a>
 </div>
 
 ---
