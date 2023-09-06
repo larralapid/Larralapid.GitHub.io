@@ -1,91 +1,114 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Larra Lapid's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Larra Lapid  
+ServiceNow Expert | Founder of Somastack
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:larra@somastack.com">larra@somastack.com</a>
+| <a href="https://www.linkedin.com/in/larralapid/">My LinkedIn Page</a>
+| <a href="http://somastack.com">Somastack.com</a>
 </div>
 
+---
 
 ## Currently
 
-Standing on the shoulders of giants
+Actively seeking subcontracting opportunities in ServiceNow via Somastack Consultancy.
 
-### Specialized in
+### Specialized in (ServiceNow)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- ITSM
+- Performance Analytics & Reporting 
+- Upgrades 
+- Integrations 
+- Service Catalog 
+- Next Experience UI 
 
 
+### Professional Interests
+
+- Automated Solutions in ITSM
+- AI Integration in Service Management
+- User Experience Design in ServiceNow Platforms
+- Educating and enabling organizations and individuals on working smarter with AI
+
+---
+
+## Fellowships & Leadership
+
+`2023`  
+__New Leaders Council, SW Ohio Chapter__  
+- Cohort Member
+
+---
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+- 2nd Place, ServiceNow's Knowledge Conference Hackathon, 2020
+- 2nd Place, ServiceNow's Knowledge Conference Hackathon, 2019
 
-Associate, *French Academy of Science*, Paris, France
+---
+
+## Employment History
+
+`Start Date - Present`  
+__Somastack__  
+- Founder
+- Searching for ServiceNow contracts. 
+
+`Nov 2020 - Present`  
+__Appriss - an Equifax Company, Remote__  
+- ServiceNow Engineer  
+- Responsible for instance maintenance, platform upgrades, and code deployments.
+- Led backlog grooming sessions and architected enhanced solutions.
+
+`Dec 2017 - Aug 2020`  
+__CloudPires, Cincinnati__  
+- Senior ServiceNow Developer  
+- Provided consulting services tailored to ServiceNow platform customers.
+- Managed client projects and ensured alignment with IT processes and business needs.
+
+`Jan 2017 - Jun 2017`  
+__General Electric — Global Cincinnati Operations__  
+- Accounts Payable Analyst  
+- Maintained GRNI/GRIR sub-ledgers for GE Healthcare subsidiary.
+- Worked under tight deadlines to identify discrepancies and variances.
+
+---
+
+## Skills & Certifications
+- Certified System Administrator  
+- Certified Application Developer 
+- Micro-certifications
+    - Virtual Agent
+    - Predictive Intelligence
+    - Automated Test Framework
+    - Enterprise Onboarding and Transitions
+    - Integration Hub
+    - Application Portfolio Management
+    - HR Integrations
+    - ServiceNow Platform Subscription Model
+    - Flow Designer
+    - Agile and Test Management Implementation
+    - Asset Models Management
+    - Performance Analytics
 
 
+### Technical Skills  
+- JavaScript  
+- Agile Methodologies  
+- ITIL  
+- Python  
+- SQL  
+- REST APIs  
+- CI/CD Pipelines
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+---
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: September 2023 -->
