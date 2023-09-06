@@ -54,7 +54,7 @@ __New Leaders Council, SW Ohio Chapter__
 
 ## Employment History
 
-`Start Date - Present`  
+`2023 - Present`  
 __Somastack__  
 - Founder
 - Searching for ServiceNow contracts. 
@@ -105,6 +105,8 @@ __General Electric — Global Cincinnati Operations__
 - SQL  
 - REST APIs  
 - CI/CD Pipelines
+- AI Prompt engineering 
+
 
 ---
 
