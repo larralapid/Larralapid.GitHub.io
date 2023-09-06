@@ -4,6 +4,8 @@ title: Larra Lapid's CV
 ---
 # Larra Lapid  
 ServiceNow Expert | Founder of Somastack
+
+
 ServiceNow expert with 5 years of experience. Experienced in leading technical delivery with alignment to IT processes and business needs while maintaining adherence to ServiceNow best practices.  
 
 <div id="webaddress">
