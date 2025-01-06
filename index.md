@@ -19,7 +19,7 @@ ServiceNow expert with 5 years of experience. Experienced in leading technical d
 
 ## Currently
 
-Actively seeking subcontracting opportunities in ServiceNow via Somastack Consultancy.
+Actively seeking technical ServiceNow role as architect, developer, implementer, or administrator.
 
 ## Specialized in (ServiceNow)
 
@@ -28,15 +28,9 @@ Actively seeking subcontracting opportunities in ServiceNow via Somastack Consul
 - Upgrades 
 - Integrations 
 - Service Catalog 
-- Next Experience UI 
-
-
-## Professional Interests
-
-- Automated Solutions in ITSM
-- AI Integration in Service Management
-- User Experience Design in ServiceNow Platforms
-- Educating and enabling organizations and individuals on working smarter with AI
+- Next Experience UI
+- ITBM
+- Service Portal
 
 ---
 
@@ -60,7 +54,7 @@ __New Leaders Council, SW Ohio Chapter__
 `2023 - Present`  
 __Somastack__  
 - Founder
-- Searching for ServiceNow contracts. 
+- Technical solutions consulting.
 
 `Nov 2020 - Present`  
 __Appriss - an Equifax Company, Remote__  
