@@ -11,7 +11,6 @@ ServiceNow expert with 5 years of experience. Experienced in leading technical d
 <div id="webaddress">
 <a href="mailto:larra@somastack.com">larra@somastack.com</a>
 | <a href="https://www.linkedin.com/in/larralapid/">My LinkedIn Page</a>
-| <a href="http://somastack.com">Somastack.com</a>
 | <a href="#" onclick="window.print(); return false;">Save as PDF</a>
 </div>
 
