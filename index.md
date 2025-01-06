@@ -95,14 +95,17 @@ __General Electric — Global Cincinnati Operations__
 
 
 ### Technical Skills  
-- JavaScript  
+- Web development
 - Agile Methodologies  
 - ITIL  
 - Python  
 - SQL  
 - REST APIs  
 - CI/CD Pipelines
-- AI Prompt engineering 
+- AI tooling and prompt engineering
+- CLI programs & shell scripting
+- Webflow
+- Shopify
 
 
 ---
